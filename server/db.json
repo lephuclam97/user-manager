@@ -1,0 +1,229 @@
+{
+  "login-admin": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "users": [
+    {
+      "name": "Nguyen Thanh Hai",
+      "age": "28",
+      "date": "2016-01-09",
+      "role": "Staff",
+      "phone": "12313",
+      "action": true,
+      "id": "1"
+    },
+    {
+      "id": "5c9676a9b83dd266fc1e6641",
+      "name": "Puy Mayo",
+      "age": 20,
+      "date": "2019-03-21",
+      "role": "User",
+      "username": "huongtram",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a997f01eb3d30e0516",
+      "name": "Patti Erickson",
+      "age": 22,
+      "date": "2019-01-23",
+      "role": "User",
+      "username": "erik",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "name": "Randolph Rutledges",
+      "age": 21,
+      "date": "2019-02-01",
+      "role": "Staff",
+      "phone": "01644646563",
+      "action": "True",
+      "id": "5c9676a9f448181b63448971"
+    },
+    {
+      "name": "Hays Gregory",
+      "age": 22,
+      "date": "2019-02-18",
+      "role": "Staff",
+      "phone": "01644646563",
+      "action": "True",
+      "id": "5c9676a975d21a9b3b15adf1"
+    },
+    {
+      "id": "5c9676a960cd7fc9c728eed8",
+      "name": "Duke Elliott",
+      "age": 22,
+      "date": "2019-01-13",
+      "role": "User",
+      "username": "lisan",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a98e25da50301093e1",
+      "name": "Ginger Reeves",
+      "age": 20,
+      "date": "2019-02-14",
+      "role": "Staff",
+      "username": "fian",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a9f956128f469a2048",
+      "name": "Vazquez Black",
+      "age": 20,
+      "date": "2019-01-31",
+      "role": "Staff",
+      "username": "typed",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a9c76d3c1c19896720",
+      "name": "Witt Schwartz",
+      "age": 22,
+      "date": "2019-03-10",
+      "role": "Staff",
+      "username": "ax",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a91c547b9d6d8277de",
+      "name": "Johanna Huffman",
+      "age": 22,
+      "date": "2019-02-01",
+      "role": "Staff",
+      "username": "srr",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a9f7fc58389c933a8d",
+      "name": "Noemi Hunter",
+      "age": 22,
+      "date": "2019-01-27",
+      "role": "Staff",
+      "username": "phuongtrung",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a9bb296457ff08daec",
+      "name": "Georgia Horton",
+      "age": 21,
+      "date": "2019-02-04",
+      "role": "Staff",
+      "username": "sotid",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a99555edde51006039",
+      "name": "Russo Mann",
+      "age": 21,
+      "date": "2019-02-20",
+      "role": "Staff",
+      "username": "989898",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a996292980328ecff0",
+      "name": "Hogan Ball",
+      "age": 21,
+      "date": "2019-01-08",
+      "role": "Staff",
+      "username": "2362",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a9a3cdc2aa7e718773",
+      "name": "Emilia Hooper",
+      "age": 20,
+      "date": "2019-01-26",
+      "role": "User",
+      "username": "Hoangtrung6",
+      "password": "321",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a95232acd8b6ffe0a7",
+      "name": "Wilcox Keller",
+      "age": 21,
+      "date": "2019-02-03",
+      "role": "Staff",
+      "username": "ducpuhng",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a9775408046e92ad9a",
+      "name": "Fanny Montoya",
+      "age": 22,
+      "date": "2019-03-22",
+      "role": "Staff",
+      "username": "98896",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "id": "5c9676a99561eb76f65c3e69",
+      "name": "Wendi Blanchard",
+      "age": 21,
+      "date": "2019-03-19",
+      "role": "Staff",
+      "username": "Hoanghasx",
+      "password": "123",
+      "phone": "01644646563",
+      "action": "True"
+    },
+    {
+      "name": "Lawrence Wiley",
+      "age": 21,
+      "date": "2019-02-25",
+      "role": "Staff",
+      "phone": "01644646563",
+      "action": "True",
+      "id": "5c9676a9ffaa0877ef1234f7"
+    },
+    {
+      "name": "Truong Thuy Son",
+      "age": "16",
+      "date": "",
+      "role": "Customer",
+      "action": true,
+      "id": "XuLBhfW"
+    },
+    {
+      "name": "",
+      "age": "",
+      "date": "",
+      "role": "Customer",
+      "action": "",
+      "username": "huongtrams",
+      "password": "s",
+      "id": "XuMllnG"
+    }
+  ]
+}
